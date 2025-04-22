@@ -15,3 +15,7 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 Spring JDBC docs
 
 https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/jdbc.html
+
+
+implemnting book author exmaple with JDBC template.
+this abstraction over JDBC to automatically open, close connection,...etc
