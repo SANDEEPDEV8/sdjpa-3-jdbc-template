@@ -10,3 +10,8 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 * Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
+
+
+Spring JDBC docs
+
+https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/jdbc.html
